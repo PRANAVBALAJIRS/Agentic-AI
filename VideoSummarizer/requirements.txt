@@ -1,0 +1,16 @@
+streamlit
+phidata
+google-generativeai
+duckduckgo-search
+packaging
+fastapi
+groq
+openai
+sqlalchemy
+pgvector
+psycopg[binary]
+pypdf
+uvicorn
+typer
+phidata
+dotenv
