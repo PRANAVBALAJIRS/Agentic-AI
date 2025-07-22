@@ -1,6 +1,7 @@
 langgraph
 langchain
 langchain_community
+langchain-google-genai
 langchainhub
 ipykernel
 langchain_groq
