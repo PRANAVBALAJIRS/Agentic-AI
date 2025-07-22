@@ -1,5 +1,6 @@
-langgraph
-langchain
+langgraph==0.5.4
+langchain==0.3
+langchain-core
 langchain_community
 langchain-google-genai
 langchainhub
